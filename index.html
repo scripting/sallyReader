@@ -1,0 +1,68 @@
+<html>
+	<head>
+		<title>Sally's Reader</title> 
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script src="//s3.amazonaws.com/scripting.com/code/includes/jquery-1.9.1.min.js"></script>
+<link href="//s3.amazonaws.com/scripting.com/code/includes/bootstrap.css" rel="stylesheet">
+<script src="//s3.amazonaws.com/scripting.com/code/includes/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="//s3.amazonaws.com/scripting.com/code/fontawesome/css/all.css">
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,500i,700" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Rancho" rel="stylesheet">
+
+<script src="//s3.amazonaws.com/scripting.com/code/includes/basic/code.js?x=1"></script>
+<link href="//s3.amazonaws.com/scripting.com/code/includes/basic/styles.css" rel="stylesheet" type="text/css">
+
+		<link href="http://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet" type="text/css">
+		<script src="http://scripting.com/code/concord/testing/3.0.6/concord.js"></script>
+		<link rel="stylesheet" href="http://scripting.com/code/concord/testing/3.0.6/concordstyles.css"/>
+		<script src="http://fargo.io/code/shared/outliner.js"></script>
+		<script src="http://fargo.io/code/shared/xml.js"></script>
+		<script src="http://scripting.com/code/opmlpackage/client/opml.js"></script>
+		<script src="code.js"></script>
+		<link rel="stylesheet" href="styles.css"/>
+		</head>
+	<body>
+		<div class="divMenubar" id="idMenubar">
+			<div class="topbar-wrapper" style="z-index: 5;">
+				<div class="navbar navbar-fixed-top" data-dropdown="dropdown">
+					<div class="navbar-inner">
+						<div class="container">
+							<a class="brand" href="/" title="This is the software I made for Sally Atkins to read the archive of my blog."><span id="idMenuProductName">Sally's Reader</span></a>
+							<ul class="nav">
+								<li class="dropdown" id="idOutlinerMenu"> 
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Outline&nbsp;<b class="caret"></b></a>
+									<ul class="dropdown-menu">
+										<li><a onclick="opExpand ();">Expand</a></li>
+										<li><a onclick="opExpandAllLevels ();">Expand All Subs</a></li>
+										<li><a onclick="opExpandEverything ();">Expand Everything</a></li>
+										
+										<li class="divider"></li>
+										<li><a onclick="opCollapse ();">Collapse</a></li>
+										<li><a onclick="opCollapseEverything ();">Collapse Everything</a></li>
+										
+										<li class="divider"></li>
+										<li><a onclick="opFindCommand ();"><span class="menuKeystroke">Cmd-F</span>Find...</a></li>
+										<li><a onclick="opFindAgainCommand ();"><span class="menuKeystroke">Cmd-G</span>Find again</a></li>
+										</ul>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		<div class="divPageBody">
+			<div class="divHappyOutline" id="idHappyOutline">
+				<div id="outliner">
+					</div>
+				</div>
+			</div>
+		<script>
+			$(document).ready (function () {
+				startup ();
+				});
+			</script>
+		</body>
+	</html>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>hellosally.opml</title>
+		<dateModified>Fri, 21 Jul 2023 13:57:18 GMT</dateModified>
+		<expansionState></expansionState>
+		<vertScrollState>1</vertScrollState>
+		<windowTop>300</windowTop>
+		<windowLeft>700</windowLeft>
+		<windowBottom>900</windowBottom>
+		<windowRight>1500</windowRight>
+		</head>
+	<body created="Thu, 20 Jul 2023 15:19:09 GMT" text="hellosally.opml">
+		<outline created="Thu, 20 Jul 2023 15:19:14 GMT" text="Hello Sally (or another friend),">
+			<outline created="Thu, 20 Jul 2023 15:19:24 GMT" text="From here you can read all the text from Scripting News from mid-2017 to mid-2023."></outline>
+			<outline created="Thu, 20 Jul 2023 15:19:52 GMT" text="Just choose the month you want to read from the Index menu at the top of the screen."></outline>
+			<outline created="Thu, 20 Jul 2023 15:20:12 GMT" text="Dave"></outline>
+			</outline>
+		</body>
+	</opml>
