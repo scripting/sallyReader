@@ -2,7 +2,7 @@
 <opml version="2.0">
 	<head>
 		<title>indexmenu.opml</title>
-		<dateModified>Fri, 21 Jul 2023 13:57:18 GMT</dateModified>
+		<dateModified>Fri, 21 Jul 2023 14:17:57 GMT</dateModified>
 		<expansionState></expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>300</windowTop>
@@ -245,9 +245,21 @@
 					<outline created="Fri, 21 Jul 2023 13:43:52 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/2016-2017/2017/01.opml"></outline>
 					</outline>
 				</outline>
-			<outline created="Fri, 21 Jul 2023 13:47:45 GMT" text="2016">
+			<outline created="Fri, 21 Jul 2023 13:47:45 GMT" flSubMenu="true" text="2016">
 				<outline created="Fri, 21 Jul 2023 13:47:50 GMT" text="December">
 					<outline created="Fri, 21 Jul 2023 13:43:52 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/2016-2017/2016/12.opml"></outline>
+					</outline>
+				<outline created="Fri, 21 Jul 2023 13:47:50 GMT" text="November">
+					<outline created="Fri, 21 Jul 2023 13:43:52 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/2016-2017/2016/11.opml"></outline>
+					</outline>
+				<outline created="Fri, 21 Jul 2023 13:47:50 GMT" text="October">
+					<outline created="Fri, 21 Jul 2023 13:43:52 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/2016-2017/2016/10.opml"></outline>
+					</outline>
+				<outline created="Fri, 21 Jul 2023 13:47:50 GMT" text="September">
+					<outline created="Fri, 21 Jul 2023 13:43:52 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/2016-2017/2016/09.opml"></outline>
+					</outline>
+				<outline created="Fri, 21 Jul 2023 13:47:50 GMT" text="August">
+					<outline created="Fri, 21 Jul 2023 13:43:52 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/2016-2017/2016/08.opml"></outline>
 					</outline>
 				</outline>
 			</outline>

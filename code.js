@@ -65,15 +65,6 @@ function buildOutlinesMenu (urlOpml, idMenuToInsertAfter) {
 		});
 	}
 function startup () {
-	function initMenus () {
-		var cmdKeyPrefix = getCmdKeyPrefix (); //10/6/14 by DW
-		$("#idMenubar .dropdown-menu li").each (function () {
-			var li = $(this);
-			var liContent = li.html ();
-			liContent = liContent.replace ("Cmd-", cmdKeyPrefix);
-			li.html (liContent);
-			});
-		}
 	console.log ("startup");
 	
 	viewOutline (urlInitialOutline, function () {
