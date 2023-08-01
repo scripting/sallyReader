@@ -2,6 +2,7 @@ body {
 	background-color: whitesmoke;
 	}
 .divPageBody {
+	display: none;
 	width: 70%;
 	margin-top: 90px;
 	margin-left: auto;
@@ -15,7 +16,9 @@ body {
 	background-color: white;
 	}
 .divPageTitle {
-	font-family: "Ubuntu";
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 12px;
 	}
 .divPageDescription {
 	font-family: "Ubuntu";

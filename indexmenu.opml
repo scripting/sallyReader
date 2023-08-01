@@ -2,7 +2,7 @@
 <opml version="2.0">
 	<head>
 		<title>indexmenu.opml</title>
-		<dateModified>Fri, 21 Jul 2023 14:17:57 GMT</dateModified>
+		<dateModified>Tue, 01 Aug 2023 12:50:13 GMT</dateModified>
 		<expansionState></expansionState>
 		<vertScrollState>1</vertScrollState>
 		<windowTop>300</windowTop>
@@ -12,7 +12,46 @@
 		</head>
 	<body created="Thu, 20 Jul 2023 14:29:15 GMT" text="indexmenu.opml">
 		<outline created="Thu, 20 Jul 2023 14:30:17 GMT" text="Index">
+			<outline created="Sun, 23 Jul 2023 19:34:20 GMT" flSubMenu="true" text="DaveNet essays">
+				<outline created="Sun, 23 Jul 2023 19:30:17 GMT" text="2004">
+					<outline created="Sun, 23 Jul 2023 19:30:23 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/DaveNet/2004.opml"></outline>
+					</outline>
+				<outline created="Sun, 23 Jul 2023 19:30:17 GMT" text="2003">
+					<outline created="Sun, 23 Jul 2023 19:30:23 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/DaveNet/2003.opml"></outline>
+					</outline>
+				<outline created="Sun, 23 Jul 2023 19:30:17 GMT" text="2002">
+					<outline created="Sun, 23 Jul 2023 19:30:23 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/DaveNet/2002.opml"></outline>
+					</outline>
+				<outline created="Sun, 23 Jul 2023 19:30:17 GMT" text="2001">
+					<outline created="Sun, 23 Jul 2023 19:30:23 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/DaveNet/2001.opml"></outline>
+					</outline>
+				<outline created="Sun, 23 Jul 2023 19:30:17 GMT" text="2000">
+					<outline created="Sun, 23 Jul 2023 19:30:23 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/DaveNet/2000.opml"></outline>
+					</outline>
+				<outline created="Sun, 23 Jul 2023 19:30:17 GMT" text="1999">
+					<outline created="Sun, 23 Jul 2023 19:30:23 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/DaveNet/1999.opml"></outline>
+					</outline>
+				<outline created="Sun, 23 Jul 2023 19:30:17 GMT" text="1998">
+					<outline created="Sun, 23 Jul 2023 19:30:23 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/DaveNet/1998.opml"></outline>
+					</outline>
+				<outline created="Sun, 23 Jul 2023 19:30:17 GMT" text="1997">
+					<outline created="Sun, 23 Jul 2023 19:30:23 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/DaveNet/1997.opml"></outline>
+					</outline>
+				<outline created="Sun, 23 Jul 2023 19:30:17 GMT" text="1996">
+					<outline created="Sun, 23 Jul 2023 19:30:23 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/DaveNet/1996.opml"></outline>
+					</outline>
+				<outline created="Sun, 23 Jul 2023 19:30:17 GMT" text="1995">
+					<outline created="Sun, 23 Jul 2023 19:30:23 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/DaveNet/1995.opml"></outline>
+					</outline>
+				<outline created="Sun, 23 Jul 2023 19:30:17 GMT" text="1994">
+					<outline created="Sun, 23 Jul 2023 19:30:23 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/DaveNet/1994.opml"></outline>
+					</outline>
+				</outline>
+			<outline created="Sun, 23 Jul 2023 19:40:58 GMT" text="-"></outline>
 			<outline created="Thu, 20 Jul 2023 15:14:56 GMT" flSubMenu="true" text="2023">
+				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="July">
+					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2023/07.opml"></outline>
+					</outline>
 				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="June">
 					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2023/06.opml"></outline>
 					</outline>
@@ -47,6 +86,9 @@
 					</outline>
 				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="August">
 					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2022/08.opml"></outline>
+					</outline>
+				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="July">
+					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2022/07.opml"></outline>
 					</outline>
 				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="June">
 					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2022/06.opml"></outline>
@@ -83,6 +125,9 @@
 				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="August">
 					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2021/08.opml"></outline>
 					</outline>
+				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="July">
+					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2021/07.opml"></outline>
+					</outline>
 				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="June">
 					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2021/06.opml"></outline>
 					</outline>
@@ -117,6 +162,9 @@
 					</outline>
 				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="August">
 					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2020/08.opml"></outline>
+					</outline>
+				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="July">
+					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2020/07.opml"></outline>
 					</outline>
 				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="June">
 					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2020/06.opml"></outline>
@@ -153,6 +201,9 @@
 				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="August">
 					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2019/08.opml"></outline>
 					</outline>
+				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="July">
+					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2019/07.opml"></outline>
+					</outline>
 				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="June">
 					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2019/06.opml"></outline>
 					</outline>
@@ -187,6 +238,9 @@
 					</outline>
 				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="August">
 					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2018/08.opml"></outline>
+					</outline>
+				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="July">
+					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2018/07.opml"></outline>
 					</outline>
 				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="June">
 					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2018/06.opml"></outline>
@@ -223,14 +277,19 @@
 				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="August">
 					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2017/08.opml"></outline>
 					</outline>
+				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="July">
+					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2017/07.opml"></outline>
+					</outline>
 				<outline created="Thu, 20 Jul 2023 14:37:23 GMT" text="June">
 					<outline created="Thu, 20 Jul 2023 15:09:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2017/06.opml"></outline>
 					</outline>
-				<outline created="Thu, 20 Jul 2023 14:37:24 GMT" text="May #2">
-					<outline created="Thu, 20 Jul 2023 15:09:39 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2017/05.opml"></outline>
-					</outline>
-				<outline created="Fri, 21 Jul 2023 13:44:33 GMT" text="May #1">
-					<outline created="Fri, 21 Jul 2023 13:44:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/2016-2017/2017/05.opml"></outline>
+				<outline created="Fri, 21 Jul 2023 18:17:24 GMT" flSubMenu="true" text="May">
+					<outline created="Thu, 20 Jul 2023 14:37:24 GMT" text="Part #2">
+						<outline created="Thu, 20 Jul 2023 15:09:39 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opml/2017/05.opml"></outline>
+						</outline>
+					<outline created="Fri, 21 Jul 2023 13:44:33 GMT" text="Part #1">
+						<outline created="Fri, 21 Jul 2023 13:44:36 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/2016-2017/2017/05.opml"></outline>
+						</outline>
 					</outline>
 				<outline created="Fri, 21 Jul 2023 13:44:17 GMT" text="April">
 					<outline created="Fri, 21 Jul 2023 13:44:19 GMT" text="https://raw.githubusercontent.com/scripting/Scripting-News/master/blog/opmlOtherSources/2016-2017/2017/04.opml"></outline>

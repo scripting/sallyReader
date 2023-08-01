@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Sally's Reader</title> 
+		<title>Sally's Reader</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<script src="//s3.amazonaws.com/scripting.com/code/includes/jquery-1.9.1.min.js"></script>
@@ -15,6 +15,7 @@
 <link href="//s3.amazonaws.com/scripting.com/code/includes/basic/styles.css" rel="stylesheet" type="text/css">
 
 		<link href="http://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet" type="text/css">
+		<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 		<script src="http://scripting.com/code/concord/testing/3.0.6/concord.js"></script>
 		<link rel="stylesheet" href="http://scripting.com/code/concord/testing/3.0.6/concordstyles.css"/>
 		<script src="http://fargo.io/code/shared/outliner.js"></script>
@@ -31,6 +32,12 @@
 						<div class="container">
 							<a class="brand" href="/" title="This is the software I made for Sally Atkins to read the archive of my blog."><span id="idMenuProductName">Sally's Reader</span></a>
 							<ul class="nav">
+								<li class="dropdown" id="idMainMenu"> 
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Menu&nbsp;<b class="caret"></b></a>
+									<ul class="dropdown-menu">
+										<li><a href="https://github.com/scripting/Scripting-News/issues/264" target="_blank">Questions...</a></li>
+										</ul>
+									</li>
 								<li class="dropdown" id="idOutlinerMenu"> 
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Outline&nbsp;<b class="caret"></b></a>
 									<ul class="dropdown-menu">
@@ -54,6 +61,7 @@
 				</div>
 			</div>
 		<div class="divPageBody">
+			<div class="divPageTitle" id="idPageTitle"></div>
 			<div class="divHappyOutline" id="idHappyOutline">
 				<div id="outliner">
 					</div>

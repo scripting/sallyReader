@@ -35,7 +35,15 @@ function httpRequest (url, timeout, headers, callback) {
 		});
 	}
 function readOutline (urlOpml, callback) {
-	httpRequest (urlOpml, undefined, undefined, callback);
+	readHttpFileThruProxy (urlOpml, undefined, function (opmltext) {
+		if (opmltext === undefined) {
+			const message = "Can't read the outline because there was an error.";
+			callback ({message});
+			}
+		else {
+			callback (undefined, opmltext);
+			}
+		});
 	}
 
 function viewOutline (urlOpml, callback) {
@@ -47,7 +55,13 @@ function viewOutline (urlOpml, callback) {
 			}
 		else {
 			console.log ("viewOutline: urlOpml == " + urlOpml + ", secs == " + secondsSince (whenstart)); 
+			
+			var theOutline = opml.parse (opmltext);
+			console.log ("viewOutline: theOutline == " + jsonStringify (theOutline));
+			$("#idPageTitle").text (theOutline.opml.head.title);
+			
 			opInitOutliner (opmltext, true, true);
+			
 			if (callback !== undefined) {
 				callback ();
 				}
@@ -65,11 +79,12 @@ function buildOutlinesMenu (urlOpml, idMenuToInsertAfter) {
 		});
 	}
 function startup () {
-	console.log ("startup");
+	console.log ("startup!");
 	
 	viewOutline (urlInitialOutline, function () {
 		opFirstSummit ();
 		opExpand (1);
+		$(".divPageBody").css ("display", "block");
 		});
 	buildOutlinesMenu (urlIndexMenu, "idOutlinerMenu");
 	
